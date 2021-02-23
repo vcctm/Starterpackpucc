@@ -40,7 +40,7 @@ Bom no próprio youtube existe muito conteúdo gratuíto e de qualidade, posso i
 #### 3.2: Cursos pagos: 💰
 Existem diversos cursos pagos pela internet, falando a verdade pra vocês acho que o interessante e verem várias reviews antes de comprar qualquer coisa pra não se arrependerem, no entando abusem do 7 dias de teste e qualquer coisa peçam extorno se não gostarem, **outra coisa importante busquem por cursos que tenham certificado de conclusão, pois irão agregar no currículo de vocês.**
 
-- ** Udemy** -* Existem vários cursos de qualquer assunto, e geralmente aparece aquelas promoções malucas de curso por 27 reais e a maioria tem certificado!*
+- **Udemy** - *Existem vários cursos de qualquer assunto, e geralmente aparece aquelas promoções malucas de curso por 27 reais e a maioria tem certificado!*
 - **Alura** - *Você paga uma assinatura anual e tem acesso a todos os cursos da plataforma deles, vejo boas reviews pela internet.*
 - **Boniek Lacerda** - *Eu gostei de alguns vídeos que ví dele, recomendaria pra quem ta começando.*
 - **algoexpert.io** - *É uma plataforma americana que faz testes de entrevistas na área de engenharia de software e outras de grandes empresas como Google, Twitter, Facebook entre outras, aconcelho a entrarem quando estiverem num nível bom.*
