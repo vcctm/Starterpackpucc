@@ -1,4 +1,9 @@
 > *Esse leak foi escrito por Azure - Víctor Miranda - Aluno SI PUCCAMP*
+>
+
+
+
+[![Preview of Kotatogram Desktop][preview_image]][preview_image_url]
 
 #   StarterPack - Programação 🚀
 
@@ -51,3 +56,8 @@ Deixo aqui minhas redes sociais para qualquer outra dúvida ou crítica sobre o 
 
 15988164908 - **Whatsapp** 📱
 vcctm -** Instagram** 📱 
+
+[//]: # (LINKS)
+
+[preview_image]: https://github.com/vcctm/Starterpackpucc/blob/main/logosi.png "Logo SI"
+[preview_image_url]: https://github.com/vcctm/Starterpackpucc/blob/main/logosi.png
