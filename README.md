@@ -21,6 +21,8 @@ Básicamente linguagem de programação é como você vai se comunicar com o seu
 ### 2. Áreas da programação: 🧩
 O mundo da programação é muito vasto e cheio de possibilidades, entrem a fundo pra descobrir onde gostariam mais de trabalhar e aplicar seus esforços, alguns exemplos de áreas são: Segurança de dados, Infraestrutura, Redes, Desenvolvimento (Front-end / Back-end / Fullstack) e muitas outras.
 
+- https://blog.betrybe.com/carreira/o-que-faz-um-programador/ Artigo altamente recomendado!
+
 > *Escolha o que mais se indentifica, mas não tenha na cabeça algo fixo, sempre se desafie a fazer diversas coisas, conhecimento nunca é demais.*
 
 ### 3. Como estudar por fora:  
