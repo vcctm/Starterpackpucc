@@ -8,6 +8,10 @@
 #   StarterPack - Programação 🚀
 
 ## • Sumário:
+#### 1. Linguagem
+#### 2. Áreas da programação
+#### 3. Como estudar por fora
+#### 4. Aprendizado continúo é a chave
 
 ### 1. Linguagem: 👨🏼‍💻
 Básicamente linguagem de programação é como você vai se comunicar com o seu computador para desenvolver os softwares/apliações que quiser, existem várias linguagens no mercado, como **php, c, c#, elixir, java, javascript, etc**.
@@ -45,7 +49,7 @@ Existem diversos cursos pagos pela internet, falando a verdade pra vocês acho q
 
 > *Não saiam comprando cursos adoidados, comprem um por vês, finalizem e ai comprem outro, a não ser que queira aproveitar promoção da Udemy ksksk.*
 
-### 4. Tentem sempre aprender algo novo todo dia: 🆕
+### 4. Aprendizado continúo é a chave: 🆕
 Isso é muito mais que verdadeiro na nossa área, tentem sempre adiquirir um novo conhecimento todos os dias, mesmo que seja um conceito novo, uma linha de código nova, uma função nova, qualquer coisa nova é válida, mas mesmo assim terão dias que não serão fáceis, você vai se encontrar cheio de problemas pra resolver e ainda não vai ter o conhecimento necessário para tal, e isso é super normal, o importante é não jogar a toalha.
 
 Falo como uma pessoa apaixonada pela área, é muito gratificante saber que nesse ramo a única coisa que nos impede de alcançar o que desejamos criar/desenvolver somos apenas nós.
