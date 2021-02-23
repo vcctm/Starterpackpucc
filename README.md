@@ -59,7 +59,7 @@ Falo como uma pessoa apaixonada pela área, é muito gratificante saber que ness
 Deixo aqui minhas redes sociais para qualquer outra dúvida ou crítica sobre o  guia: 
 
 15988164908 - **Whatsapp** 📱
-vcctm -** Instagram** 📱 
+vcctm - **Instagram** 📱 
 
 [//]: # (LINKS)
 
