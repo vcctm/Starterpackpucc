@@ -56,7 +56,7 @@ Isso é muito mais que verdadeiro na nossa área, tentem sempre adiquirir um nov
 
 Falo como uma pessoa apaixonada pela área, é muito gratificante saber que nesse ramo a única coisa que nos impede de alcançar o que desejamos criar/desenvolver somos apenas nós.
 
-> A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir.** Elon Musk**
+> A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir. **Elon Musk**
 
 Deixo aqui minhas redes sociais para qualquer outra dúvida ou crítica sobre o  guia: 
 
